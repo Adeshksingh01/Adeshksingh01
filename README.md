@@ -1,5 +1,5 @@
 # 💫 About Me:
-         Hi 👋, I'm Adesh Kumar Singh.
+Hi 👋, I'm Adesh Kumar Singh.
 <br><br>🎓 I’m a first‑year BSc Data Science student focused on strengthening my foundation in Python, statistics, and data analysis.
 <br><br>👯 I enjoy collaborating on beginner‑level data projects, notebooks, and mini ML experiments that help me apply what I learn to real‑world problems.
 <br><br>🤝 I’m seeking guidance to write clean and organized Python code, improve my SQL querying skills, and understand the math that drives data science.
