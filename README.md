@@ -1,11 +1,10 @@
 # 💫 About Me:
 Hi 👋, I'm Adesh Kumar Singh.
-<br><br>🎓 I’m a first‑year BSc Data Science student focused on strengthening my foundation in Python, statistics, and data analysis.
-<br><br>👯 I enjoy collaborating on beginner‑level data projects, notebooks, and mini ML experiments that help me apply what I learn to real‑world problems.
-<br><br>🤝 I’m seeking guidance to write clean and organized Python code, improve my SQL querying skills, and understand the math that drives data science.
+<br><br>🌱 Stack: Learning Python, SQL, Excel, and Git/GitHub.
+<br><br>👯 Goal: Collaborating on beginner data projects & mini ML experiments.
 <br><br>🌱 Currently, I’m exploring Python, Excel, fundamental statistics, and Git/GitHub to build and share my learning projects efficiently.
 <br><br>💬 I love discussing my learning process, study methods, and upcoming projects in data science.
-<br><br>⚡ Fun fact: I like turning everyday challenges into coding or data projects, making learning both practical and fun
+<br><br>⚡ Fun fact: I turn everyday challenges into practical coding projects!
 
 
 ## 🌐 Socials:
