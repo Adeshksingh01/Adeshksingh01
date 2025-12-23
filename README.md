@@ -70,10 +70,6 @@
 
 ###
 
-<h3 align="left">🤖 "Presented below is a curated repository of my technical deliverables."</h3>
-
-###
-
 <h1 align="left">🔍 Visitor Counter:</h1>
 
 ###
@@ -81,5 +77,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Adeshksingh01.Adeshksingh01&left_color=darkred&right_color=aqua"  />
 </div>
+
+###
+
+<h3 align="left">🤖 "Presented below is a curated repository of my technical deliverables."</h3>
 
 ###
