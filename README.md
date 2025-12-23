@@ -1,4 +1,4 @@
-![My Banner](banner.jpg)
+![My Banner](Profile.jpg)
 
 ###
 
