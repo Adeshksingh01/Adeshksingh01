@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&reversal=true&text=Hi%F0%9F%91%8B%20I'm%20Adesh%20Kumar%20Singh&fontSize=65&fontColor=black&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=scaleIn&descSize=50&descAlign=50&descAlignY=85&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&reversal=true&text=Hi%20%F0%9F%91%8B,%20I'm%20Adesh%20Kumar%20Singh&fontSize=50&fontColor=Black&fontAlign=50&fontAlignY=50&stroke=dinamic&strokeWidth=50&animation=scaleIn&descSize=40&descAlign=50&descAlignY=75&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -42,9 +42,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
