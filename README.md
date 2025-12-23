@@ -1,3 +1,5 @@
+"D:\Downloads\Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image.jpg"
+
 # 💫 About Me:
 Hi 👋, I'm Adesh Kumar Singh.
 <br><br>🌱 Stack: Learning Python, SQL, Excel, and Git/GitHub.
